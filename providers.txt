@@ -19,5 +19,5 @@
 #Yoyo="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext"
 #EasyList="https://easylist.to/easylist/easylist.txt"
 #AbiDarwishList="https://raw.githubusercontent.com/abidarwish/helium/main/AbiDarwishList.txt"
-D3Host="https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt"
+#D3Host="https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt"
 VpnLegasiList="https://raw.githubusercontent.com/vpnlegasi/adguards/main/VpnLegasiList.txt"
