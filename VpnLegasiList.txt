@@ -8599,8 +8599,8 @@
 ||adsonflags.com^
 ||histock.info^
 ||checkhit.com^
-||.bbelements.com^
-||.doublepimp.com^
+||bbelements.com^
+||doublepimp.com^
 ||1100ad.com^
 ||1app.blob.core.windows.net^
 ||2performant.com^
