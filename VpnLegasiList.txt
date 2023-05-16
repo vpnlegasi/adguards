@@ -8718,3 +8718,4 @@
 ||www.torrent-downloads.to^
 ||downloads.to^
 ||arenabg.com^
+||pow7.com^
