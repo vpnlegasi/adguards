@@ -8707,3 +8707,6 @@
 ||samsungtvads.com^
 ||linodeusercontent.com^
 ||alphahub.my^
+||anidex.info^
+||anirena.com^
+||anidex.moe^
