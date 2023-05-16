@@ -8717,3 +8717,4 @@
 ||nhentai.com^
 ||www.torrent-downloads.to^
 ||downloads.to^
+||arenabg.com^
