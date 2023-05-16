@@ -8715,3 +8715,5 @@
 ||playstation.com^
 ||p2pbg.com^
 ||nhentai.com^
+||www.torrent-downloads.to^
+||downloads.to^
